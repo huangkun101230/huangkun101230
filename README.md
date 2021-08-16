@@ -6,4 +6,4 @@
 
 ## Spotify Playing 🎧
 
-Out of services :/
+Out of service :/
