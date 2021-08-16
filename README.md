@@ -6,4 +6,4 @@
 
 ## Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" />](https://open.spotify.com/user/40xsg8ybf8jnw7e17dzpgb8ut)
+Out of services :/
